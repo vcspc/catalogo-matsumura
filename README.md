@@ -4,6 +4,8 @@ Protótipo navegável da Matsumura com as páginas do projeto Street Side. O cat
 
 ## Visualizar
 
+**Amostra online:** https://vcspc.github.io/catalogo-matsumura/
+
 Abra `index.html` em um navegador ou sirva a pasta localmente:
 
 ```powershell
@@ -33,4 +35,3 @@ Não há banco de dados, API, autenticação real nem pagamento. Os fluxos usam 
 - `catalog.js`: catálogo, produtos, identidade visual e filtros.
 - `shop.js`: páginas adicionais e interações locais.
 - `assets/`: logo extraído do PDF fornecido e fotografias ilustrativas geradas para o protótipo.
-
